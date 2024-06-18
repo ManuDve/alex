@@ -1,0 +1,7 @@
+Crear aplicación que realice lo siguiente:
+
+Transformar datos CSV a una lista de diccionarios
+Crear Menú que tengan las siguientes funcionalidades
+Obtener el mejor alumno por asignatura
+Obtener el mejor alumno por año
+Obtener la asignatura de cada año con mejor asistencia
